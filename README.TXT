@@ -1,1 +1,1 @@
-readme.txt pr2 second cm
+readme.txt pr2
